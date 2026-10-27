@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/0xWill-A/0xWill-A/refs/heads/main/kc_10_sr_71.png"/>
 Did you know that a trained neural network could fingerprint your phone NR uplink to know what phone you have and which application you are using?
 No? Neither did I : https://arxiv.org/pdf/2606.15221 https://arxiv.org/pdf/2201.00680 https://ieeexplore.ieee.org/document/10433427
 
