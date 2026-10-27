@@ -4,9 +4,31 @@ No? Neither did I : https://arxiv.org/pdf/2606.15221 https://arxiv.org/pdf/2201.
 Learning about my ignorance everyday
 
 Self-taught tech enthusiast, my dream is to master everything.
-- **stack** `python` / `bash` (automation, tooling, glue) · `c` (memory, winapi, x86-64 asm)... I wonder if people still care about coding skills in todays society...
+- **stack** `python` / `bash` (automation, tooling, glue), `c` (memory, winapi, x86-64 asm)... I wonder if people still care about coding skills in todays society...
 - **home lab** Paranoid hardened homelab: Network exposed via Tor hidden service accessible via clearnet reverse proxy, WireGuard-only egress, everything runs in MicroVM, Suricata as IDS/IPS
-- **web** I host multiple website, nothing large scale but I self host my own services
+- **web** I host multiple websites, nothing large scale but I self host my own services.
 - **AI agent / loop engineering** designing agentic loops: subagent orchestration, tool routing, context discipline, redundancy & retry logic, I run multiple agents 24/7 on my VPS with a custom harness.
 
+
+<pre>
+            .-"""-.
+           '       \
+          |,.  ,-.  |
+          |()L( ()| |
+          |,'  `".| |
+          |.___.',| `
+         .j `--"' `  `.
+        / '        '   \
+       / /          `   `.
+      / /            `    .
+     / /              l   |
+    . ,               |   |
+    ,"`.             .|   |
+ _.'   ``.          | `..-'l
+|       `.`,        |      `.
+|         `.    __.j         )
+|__        |--""___|      ,-'
+   `"--...,+""""   `._,.-' 
+
+</pre>
 
