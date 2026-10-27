@@ -2,7 +2,7 @@
 Did you know that a trained neural network could fingerprint your phone NR uplink to know what phone you have and which application you are using?
 No? Neither did I : https://arxiv.org/pdf/2606.15221 https://arxiv.org/pdf/2201.00680 https://ieeexplore.ieee.org/document/10433427
 
-Learning about my ignorance everyday
+<i> I believe accepting ignorance is the best way to truly get motivated to learn about things in depth </i>
 
 Self-taught tech enthusiast, my dream is to master everything.
 - **stack** `python` / `bash` (automation, tooling, glue), `c` (memory, winapi, x86-64 asm)... I wonder if people still care about coding skills in todays society...
