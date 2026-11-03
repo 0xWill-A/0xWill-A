@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/0xWill-A/0xWill-A/refs/heads/main/kc_10_sr_71.png"/>
+<h3>I'm seeking for a job, <a href="https://0xwill.blog">check my website</a></h3>
 <strong>Did you know that a trained neural network could fingerprint your phone NR uplink to know what phone you have and which application you are using?</strong>
 No? Neither did I : https://arxiv.org/pdf/2606.15221 https://arxiv.org/pdf/2201.00680 https://ieeexplore.ieee.org/document/10433427
 
